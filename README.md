@@ -17,4 +17,4 @@
 - En cas d'erreur lors de l'évaluation de l'expression (par exemple, une division par zéro), un message d'alerte est affiché grâce à l'événement `error` de la fenêtre.
 
 <h2 align="center"> 🚀 Lien </h2>
-
+https://faudotrina.github.io/calculatrice/
